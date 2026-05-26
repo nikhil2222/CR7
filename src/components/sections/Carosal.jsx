@@ -19,6 +19,7 @@ const items = [
   { type: 'text', text: 'to the new way of banking', className: 'text-[#0A0A0A]' },
 ];
 
+/** @param {string} keyPrefix */
 const renderItems = (keyPrefix) =>
   items.map((item, index) => {
     if (item.type === 'icon') {
