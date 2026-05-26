@@ -2,7 +2,7 @@ import React from 'react';
 import n7Icon from '../../assets/N7.png';
 import starIcon from '../../assets/star.png';
 import handIcon from '../../assets/hand.png';
-import cb7Icon from '../../assets/cb7.png';
+import cb7Icon from '../../assets/CB7.png';
 
 const items = [
   { type: 'icon', src: starIcon, alt: 'star', width: 38, height: 38 },
